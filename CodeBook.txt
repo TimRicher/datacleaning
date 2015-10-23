@@ -1,0 +1,13 @@
+Code Book
+
+This code book summarizes the resulting data fields in tidy.txt.
+
+Identifiers :
+subjectID - ID of the test subject
+activityID - ID of activity type
+
+Activity Labels:
+WALKING (value 1), WALKING_UPSTAIRS (value 2), WALKING_DOWNSTAIRS (value 3), SITTING (value 4), STANDING (value 5), LAYING (value 6)
+	
+Feature Names Extracted:	
+tBodyAccMeanX, tBodyAccMeanY, tBodyAccMeanZ, tBodyAccStdDevX, tBodyAccStdDevY, tBodyAccStdDevZ, tGravityAccMeanX, tGravityAccMeanY, tGravityAccMeanZ, tGravityAccStdDevX, tGravityAccStdDevY, tGravityAccStdDevZ, tBodyAccJerkMeanX, tBodyAccJerkMeanY, tBodyAccJerkMeanZ, tBodyAccJerkStdDevX, tBodyAccJerkStdDevY, tBodyAccJerkStdDevZ, tBodyGyroMeanX, tBodyGyroMeanY, tBodyGyroMeanZ, tBodyGyroStdDevX, tBodyGyroStdDevY, tBodyGyroStdDevZ, tBodyGyroJerkMeanX, tBodyGyroJerkMeanY, tBodyGyroJerkMeanZ, tBodyGyroJerkStdDevX, tBodyGyroJerkStdDevY, tBodyGyroJerkStdDevZ, tBodyAccMagMean, tBodyAccMagStdDev, tGravityAccMagMean, tGravityAccMagStdDev, tBodyAccJerkMagMean, tBodyAccJerkMagStdDev, tBodyGyroMagMean, tBodyGyroMagStdDev, tBodyGyroJerkMagMean, tBodyGyroJerkMagStdDev, fBodyAccMeanX, fBodyAccMeanY, fBodyAccMeanZ, fBodyAccStdDevX, fBodyAccStdDevY, fBodyAccStdDevZ, fBodyAccMeanFreqX, fBodyAccMeanFreqY, fBodyAccMeanFreqZ, fBodyAccJerkMeanX, fBodyAccJerkMeanY, fBodyAccJerkMeanZ, fBodyAccJerkStdDevX, fBodyAccJerkStdDevY, fBodyAccJerkStdDevZ, fBodyAccJerkMeanFreqX, fBodyAccJerkMeanFreqY, fBodyAccJerkMeanFreqZ, fBodyGyroMeanX, fBodyGyroMeanY, fBodyGyroMeanZ, fBodyGyroStdDevX, fBodyGyroStdDevY, fBodyGyroStdDevZ, fBodyGyroMeanFreqX, fBodyGyroMeanFreqY, fBodyGyroMeanFreqZ, fBodyAccMagMean, fBodyAccMagStdDev, fBodyAccMagMeanFreq, fBodyBodyAccJerkMagMean, fBodyBodyAccJerkMagStdDev, fBodyBodyAccJerkMagMeanFreq, fBodyBodyGyroMagMean, fBodyBodyGyroMagStdDev, fBodyBodyGyroMagMeanFreq, fBodyBodyGyroJerkMagMean, fBodyBodyGyroJerkMagStdDev, fBodyBodyGyroJerkMagMeanFreq
